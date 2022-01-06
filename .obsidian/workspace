@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "388ff14b12c26e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "449b13380281fc8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "info/01-syllabus.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a6f55ef9b8a05bb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "info/04-homework.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c18289ec392fb472",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea959f18ad7b531b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "668d396568f08ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6646bbdeceb926ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "right": {
+    "id": "74b31d3d8078b442",
+    "type": "split",
+    "children": [
+      {
+        "id": "d23ae83112542071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40360513a1c4fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "info/01-syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "449b13380281fc8f",
+  "lastOpenFiles": [
+    "info/01-syllabus.md",
+    "06-Resource.md",
+    "info/04-homework.md",
+    "info/03-schedule.md",
+    "05-Reading.md",
+    "info/02-teaching_team.md",
+    "index.md",
+    "_site/assets/minima-social-icons.svg",
+    "intro/he_shiqing_100416_051 - Shiqing (Licia) He_cropped.jpg",
+    "_site/assets/he_shiqing_100416_051 - Shiqing (Licia) He_cropped.jpg.md"
+  ]
+}
