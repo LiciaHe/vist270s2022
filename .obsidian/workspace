@@ -6,24 +6,24 @@
       {
         "id": "449b13380281fc8f",
         "type": "leaf",
-        "dimension": 50.165672630881375,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/w1/2022-01-16-1-lab.md",
+            "file": "_posts/w1/2022-01-16-2-lecture.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "3fef8adb49e43df1",
+        "id": "1bec8ecc1be0663f",
         "type": "leaf",
-        "dimension": 49.83432736911862,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "information/05-material.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/w1/2022-01-16-1-lab.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "449b13380281fc8f",
+  "active": "1bec8ecc1be0663f",
   "lastOpenFiles": [
+    "index.md",
+    "_posts/w1/2022-01-16-2-lecture.md",
+    "information/02-teaching_team.md",
     "_posts/w1/2022-01-16-1-lab.md",
     "_posts/w1/2022-01-16-0-summary.md",
-    "_posts/w2/2022-01-21-3- reading.md",
-    "_posts/w2/2022-01-21-0-summary.md",
-    "_posts/w2/2022-01-24-1-lab.md",
-    "_posts/w5/2022-02-11-0-summary.md",
-    "_posts/w4/2022-02-10-2-lecture.md",
-    "_posts/w4/2022-02-08-1-lab.md",
-    "_posts/w4/2022-02-04-3-homework.md",
-    "_posts/w4/2022-02-04-0-summary.md"
+    "_posts/w6/2022-02-24-2-lecture.md",
+    "_posts/w6/2022-02-22-1-lab.md",
+    "_posts/w6/2022-02-18-4-reading1.md",
+    "_posts/w6/2022-02-18-3-homework.md",
+    "_posts/w6/2022-02-18-0-summary.md"
   ]
 }

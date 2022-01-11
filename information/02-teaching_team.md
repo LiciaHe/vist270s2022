@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Team and Contact
+title: Contact
 
 ---
 
