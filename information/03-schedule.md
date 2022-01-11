@@ -16,7 +16,7 @@ Acronym/abbreviation/info:
 
 | #|HW#| Sun| Mon |  TU | W | TH | F | SAT |  
 | ----------- | ----------- |   ----------- | | ----------- | ----------- |   ----------- |    ----------- |
-| 1 || <sup>1/16:</sup> <br>  |<sup>1/17:</sup> <br>  MLK Day |  <sup>1/18</sup>: <br> <strike>500 LAB </strike>  |  <sup>1/19</sup>: <br>   |  <sup>1/20</sup>: <br> <strike>502 LAB</strike> <br> Lecture   |  <sup>1/21</sup>: <br> <strike>501/503 LAB</strike> <br>   <span style="color:#0000ff;">Reading/HW1 released</span>|  <sup>1/22</sup>: <br>    |  
+| 1 || <sup>1/16:</sup> <br>  |<sup>1/17:</sup> <br>  MLK Day |  <sup>1/18</sup>: <br> 500 LAB   |  <sup>1/19</sup>: <br>   |  <sup>1/20</sup>: <br> 502 LAB<br> Lecture   |  <sup>1/21</sup>: <br> 501/503 LAB <br>   <span style="color:#0000ff;">Reading/HW1 released</span>|  <sup>1/22</sup>: <br>    |  
 | 2 |1| <sup>1/23</sup>: <br>  |<sup>1/24</sup>: <br> <mark> last day to drop/add </mark> <br><span style="color:#ff00ff;">Q1 Due</span>|  <sup>1/25</sup>: <br> 500 LAB  <br>   |  <sup>1/26</sup>: <br>   |  <sup>1/27</sup>: <br> 502 LAB <br> Lecture   |  <sup>1/28</sup>: <br>    501/503 LAB <br>  <span style="color:#0000ff;">Reading/HW2 released</span>|  <sup>1/29</sup>: <br>    |  
 | 3 |2|<sup>1/30</sup>: <br>  <span style="color:#ff0000;">HW1 Due</span>|<sup>1/31</sup>: <br><span style="color:#ff00ff;">Q2 Due</span>  |  <sup>2/1</sup>: <br> 500 LAB  <br>   |  <sup>2/2</sup>: <br>   |  <sup>2/3</sup>: <br> 502 LAB <br> Lecture     |  <sup>2/4</sup>: <br>501/503 LAB     <br>  <span style="color:#0000ff;">Reading/HW3 released</span>|  <sup>2/5</sup>: <br>    |  
 | 4 |3| <sup>2/6</sup>: <br> <span style="color:#ff0000;">HW2 Due</span> |<sup>2/7</sup>: <br> <span style="color:#ff00ff;">Q3 Due</span>  |  <sup>2/8</sup>: <br> 500 LAB  <br>   |  <sup>2/9</sup>: <br>   |  <sup>2/10</sup>: <br> 502 LAB <br> Lecture    |  <sup>2/11</sup>: <br> 501/503 LAB     <br> <span style="color:#0000ff;">Reading/HW4 released</span>|  <sup>2/12</sup>: <br>    |  
@@ -44,8 +44,8 @@ Class Topic is subject to change.
 
 | #|HW#| Lecture  | Lab  | 
 | ----------- | ----------- |   ----------- | 
-|1|  |Course introduction|No Lab| 
-|2| 1 |Basic Python Programming|Software Installation, numbers, lists, strings, variable| 
+|1|  |Course introduction|Software Installation| 
+|2| 1 |Basic Python Programming|numbers, lists, strings, variable| 
 |3| 2| Conditional Execution|Conditional Execution| 
 |4| 3| Foundation of 2D graphics, loops |Primitive shapes and loops| 
 |5| 4| Functions |functions| 
@@ -60,3 +60,4 @@ Class Topic is subject to change.
 |14| 11| File Handling|File Handling| 
 |15| 12| Recursive|Recursive| 
 |16| | No class |No Lab| 
+

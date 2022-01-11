@@ -6,22 +6,24 @@
       {
         "id": "449b13380281fc8f",
         "type": "leaf",
+        "dimension": 50.165672630881375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "info/01-syllabus.md",
+            "file": "_posts/w1/2022-01-16-1-lab.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "a6f55ef9b8a05bb0",
+        "id": "3fef8adb49e43df1",
         "type": "leaf",
+        "dimension": 49.83432736911862,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "info/04-homework.md",
+            "file": "information/05-material.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 351
   },
   "right": {
     "id": "74b31d3d8078b442",
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "info/01-syllabus.md",
+                "file": "_posts/w1/2022-01-16-1-lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "449b13380281fc8f",
   "lastOpenFiles": [
-    "info/01-syllabus.md",
-    "06-Resource.md",
-    "info/04-homework.md",
-    "info/03-schedule.md",
-    "05-Reading.md",
-    "info/02-teaching_team.md",
-    "index.md",
-    "_site/assets/minima-social-icons.svg",
-    "intro/he_shiqing_100416_051 - Shiqing (Licia) He_cropped.jpg",
-    "_site/assets/he_shiqing_100416_051 - Shiqing (Licia) He_cropped.jpg.md"
+    "_posts/w1/2022-01-16-1-lab.md",
+    "_posts/w1/2022-01-16-0-summary.md",
+    "_posts/w2/2022-01-21-3- reading.md",
+    "_posts/w2/2022-01-21-0-summary.md",
+    "_posts/w2/2022-01-24-1-lab.md",
+    "_posts/w5/2022-02-11-0-summary.md",
+    "_posts/w4/2022-02-10-2-lecture.md",
+    "_posts/w4/2022-02-08-1-lab.md",
+    "_posts/w4/2022-02-04-3-homework.md",
+    "_posts/w4/2022-02-04-0-summary.md"
   ]
 }

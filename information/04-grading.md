@@ -1,10 +1,22 @@
 ---
 layout: page
-title: Homeworks
+title: Grading
 ---
 
-# Homeworks and Grading 
-## Grades 
+
+- [Policies:](#policies-)
+  * [Grades](#grades)
+    + [How letter grades will be awarded](#how-letter-grades-will-be-awarded)
+  * [Late Policy](#late-policy)
+- [Reading and Quiz](#reading-and-quiz)
+- [Homework](#homework)
+- [Final Project](#final-project)
+- [Grade Change Request](#grade-change-request)
+----------------------------------------------------
+##  Policies: 
+
+
+### Grades 
 VIST 270 will use a “[contract grading](https://en.wikipedia.org/wiki/Contract_grading#:~:text=Contract%20grading%20is%20a%20form,correspond%20to%20specific%20letter%20grades.)” scheme that let you decide the amount of work you want to complete to achieve your target grade. 
 
 Your will earn your grades from the following sources:
@@ -25,15 +37,15 @@ Your will earn your grades from the following sources:
 |D	|60-69|
 |F	|0-59|
 
-## Late Policy 
+### Late Policy 
 Unless you have made an arrangement with the intructor (Dr. Licia He) <mark>PRIOR </mark> to a submission deadline, late works are not accepted. We will not give late excuses or make-up assignment. 
+
+---------------------------
 
 ## Reading and Quiz
 This class use a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom#:~:text=A%20flipped%20classroom%20is%20an,problem%2Dsolving%20during%20class%20time.), where you will learn the core concepts through readings and online lecture watching. After the reading/online lecture, you should be able to complete the homework set. <strong>It is crucial for you to complete these readings/videos BEFORE your lab sessions </strong>. All reading materials will be released on or before the Friday prior to the new week. On the following Monday, a quiz regarding the reading material will due at <strong>10 pm (instead of midnight)</strong>.   
 
 You will complete all quizzes electronically on Canvas. You will receive immediate feedback as to the correctness of answers. You may repeat questions that they do not get correct. 
-
-[//]: <> (A quiz will consist of 4 questions, with 1 point awarded for each correct answer. For full quiz credit all questions must be answered correctly.)
 
 
 
@@ -63,3 +75,9 @@ Homework sets will be released on Friday. They are due the next Sunday at <stron
 
 ## Final Project 
 The final project is a creative open-ended project. It will require you leverage most of the concept and techniques we teach in this semester.  We will release the detail of the final project on or before 4/10. You will have 3-4 weeks to complete the project. The final project counts for 4% of the your grade. 
+
+
+
+### Grade Change Request 
+
+If you see any issue in your grades, please fill in a [grade change request form](https://forms.gle/KRE9pjkrtcNp1PwQ9) (https://forms.gle/KRE9pjkrtcNp1PwQ9) within 2 weeks after you receive the grade. We will try to get back to you as soon as we can (normally within 48 hrs).  
