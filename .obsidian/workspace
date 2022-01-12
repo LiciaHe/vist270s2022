@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/w1/2022-01-16-2-lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bec8ecc1be0663f",
+  "active": "449b13380281fc8f",
   "lastOpenFiles": [
-    "index.md",
     "_posts/w1/2022-01-16-2-lecture.md",
+    "index.md",
     "information/02-teaching_team.md",
     "_posts/w1/2022-01-16-1-lab.md",
     "_posts/w1/2022-01-16-0-summary.md",
