@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "388ff14b12c26e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "449b13380281fc8f",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bec8ecc1be0663f",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c18289ec392fb472",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea959f18ad7b531b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "668d396568f08ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6646bbdeceb926ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351
+  },
+  "right": {
+    "id": "74b31d3d8078b442",
+    "type": "split",
+    "children": [
+      {
+        "id": "d23ae83112542071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40360513a1c4fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "449b13380281fc8f",
+  "lastOpenFiles": [
+    "_posts/w1/2022-01-16-2-lecture.md",
+    "index.md",
+    "information/02-teaching_team.md",
+    "_posts/w1/2022-01-16-1-lab.md",
+    "_posts/w1/2022-01-16-0-summary.md",
+    "_posts/w6/2022-02-24-2-lecture.md",
+    "_posts/w6/2022-02-22-1-lab.md",
+    "_posts/w6/2022-02-18-4-reading1.md",
+    "_posts/w6/2022-02-18-3-homework.md",
+    "_posts/w6/2022-02-18-0-summary.md"
+  ]
+}
