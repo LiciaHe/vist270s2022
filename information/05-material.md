@@ -26,7 +26,7 @@ title: Material
 		{% assign style = "color:#570c1c;" %}
 	{%endif%}
 	<li style="{{style}}" >
-	      <a href="{{ post.url }}" style="{{style}}">{{ post.title }}</a>
+	      <a href="{{ post.url | prepend:site.baseurl}}" style="{{style}}">{{ post.title }}</a>
 	</li>
   {% endfor %}
 </ul>
