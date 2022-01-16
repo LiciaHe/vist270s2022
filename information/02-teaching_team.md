@@ -48,5 +48,5 @@ The VIST 270 teaching staff is here to help you succeed. However, please follow 
 
 -  If you see any issue in your grades, please fill in a [grade change request form](https://forms.gle/KRE9pjkrtcNp1PwQ9) (https://forms.gle/KRE9pjkrtcNp1PwQ9) within 2 weeks after you receive the grade. We will try to get back to you as soon as we can (normally within 48 hrs).  
 - If you have other questions you, please email the teaching team. 
--  All email to the instructors or TAs must come from your TAMU email address. Please allow 24 hours for a response to any email (48 hours on weekends/breaks). We will not correspond with your parents or guardians about your grades.
+-  All email to the instructors or TAs must come from your TAMU email address. Please allow 24-48 hours for a response to any email (48+ hours on weekends/breaks). We will not correspond with your parents or guardians about your grades.
 

@@ -45,7 +45,7 @@ Table of Content
 
 ## Teaching Team 
 -  Instructor: Dr. Shiqing (Licia) He 
--  Teaching Assistant: Rohith Kadivendi (sections 502 & 504)
+-  Teaching Assistant: Rohith Kadivendi (sections 500 & 502)
 -  Teaching Assistant:  Shrimantee Roy (section 501)
 -  Teaching Assistant: Harika Gumudavally (section 503) 
 
@@ -94,9 +94,6 @@ This class use a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped
 
 You will complete all quizzes electronically on Canvas. You will receive immediate feedback as to the correctness of answers. You may repeat questions that they do not get correct. 
 
-[//]: <> (A quiz will consist of 4 questions, with 1 point awarded for each correct answer. For full quiz credit all questions must be answered correctly.)
-
-
 
 ### Homework  
 Each homework set will contain 3 different sections: 
@@ -119,7 +116,11 @@ Therefore, for each homework set, you will upload 3 files (4 if you have complet
 - hw1_b.py (OPTIONAL)
 - hw1_answer_sheet.pdf
 
-Homework sets will be released on Friday. They are due the next Sunday at <strong>10 pm (instead of midnight)</strong>. We will try to grade as soon as we can.  Please allow 1-2 weeks to receive the grading. 
+Please refer to the canvas page for more submission details.
+
+Homework sets will be released on Friday. They are due the next Sunday at <strong>10 pm (instead of midnight)</strong>. After the submission deadline, you will be assigned to peer review a submission by Thursday 10pm. 
+
+We will try to grade as soon as we can.  Please allow 1-2 weeks to receive the grading. 
 
 
 ### Final Project 
@@ -144,6 +145,7 @@ Classroom Ingress/Egress—Students must follow marked pathways for entering and
 To attend a face-to-face class, students must properly wear an approved face covering If a student refuses to wear a face covering, the instructor should ask the student to leave and join the class remotely. If the student does not leave the class, the faculty member should report that student to the Student Conduct office for sanctions. Additionally, the faculty member may choose to teach that day’s class remotely for all students, or dismiss the class in the case of a traditional face to face lecture.
 
 PLEASE NOTE that general communications regarding COVID policies, and how these will impact spring semester teaching, will be regularly updated on the following website: www.tamu.edu/coronavirus/index.html. Any information specific to COVID response and management in classrooms will be shared in additional email communications.
+
 ### Attendance
 Attendance will not be taken in the lecture sessions or the lab sessions of this course. However, if you miss a class, you must first consult with a classmate about missed material prior to seeking assistance from the TAs or instructors. It is your responsibility to be familiar with material presented and discussed in class.
 
@@ -156,7 +158,7 @@ Your instructors will make every effort to be in class on time, or to inform you
 In case a scheduled class meeting is cancelled due to circumstances beyond our control, any scheduled work that is affected will be rescheduled, as announced by your instructors.
 
 ### Laptop and Mobile Device Policy
-Please silence your mobile devices before class. Do not text or play games during class. If you need to use your laptop during lecture, you must get the instructor’s written permission. Please exercise good judgment since you may not only distract yourself, but also people seated near you. If you use your laptop or mobile device in such a way that it distracts others (e.g. playing games), you will be asked to leave.
+Please silence your mobile devices before class. Do not text or play games during class.  Please exercise good judgment since you may not only distract yourself, but also people seated near you. If you use your laptop or mobile device in such a way that it distracts others (e.g. playing games), you will be asked to leave.
 
 ### Recording Devices
 Lectures and Q&A sessions may not be recorded without the written permission of the instructor and you do not have the instructor’s permission to use notes from lectures for commercial lecture note purposes.

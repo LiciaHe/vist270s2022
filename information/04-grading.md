@@ -2,6 +2,7 @@
 layout: page
 title: Grading
 ---
+-----------------
 
 
 - [Policies:](#policies-)
@@ -12,6 +13,7 @@ title: Grading
 - [Homework](#homework)
 - [Final Project](#final-project)
 - [Grade Change Request](#grade-change-request)
+
 ----------------------------------------------------
 ##  Policies: 
 
