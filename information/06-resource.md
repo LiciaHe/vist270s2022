@@ -24,4 +24,10 @@ The [Academic Success Center](https://asc.tamu.edu/) offers many free and helpfu
 There are many Python tutorials, courses, and labs available: Please take a look at [this website](https://wiki.python.org/moin/BeginnersGuide/Programmers) for links to these resources.  If you have specific questions, [stackoverflow](https://stackoverflow.com/) is the go-to platform for these questions. 
 
 
+## Helpful software
+- Greenshot for taking and managing screenshot 
+	- Free for windows. 2$ for mac https://getgreenshot.org/
+	- 
+- 
+
 

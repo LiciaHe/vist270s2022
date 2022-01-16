@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 50,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "information/01-syllabus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -17,8 +21,12 @@
         "type": "leaf",
         "dimension": 50,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "information/02-teaching_team.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -75,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "information/01-syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
