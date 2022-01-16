@@ -31,7 +31,7 @@ This course emphasizes hands-on experience to introduce the fundamentals of visu
 
 ### Teaching Team 
 -  Instructor: Dr. Licia He 
--  Teaching Assistant: Rohith Kadivendi (sections 502 & 504)
+-  Teaching Assistant: Rohith Kadivendi (sections 500 & 502)
 -  Teaching Assistant:  Shrimantee Roy (section 501)
 -   Teaching Assistant: Harika Gumudavally (section 503) 
 

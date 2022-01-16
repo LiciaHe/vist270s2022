@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 50,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "information/01-syllabus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -19,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "information/02-teaching_team.md",
             "mode": "source",
             "source": false
           }
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "information/01-syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +103,15 @@
   },
   "active": "449b13380281fc8f",
   "lastOpenFiles": [
+    "information/01-syllabus.md",
+    "_posts/w2/2022-01-27-2-lecture.md",
+    "_posts/w2/2022-01-21-4-homework.md",
+    "_posts/w2/2022-01-24-1-lab.md",
+    "_posts/w2/2022-01-21-3- reading.md",
+    "_posts/w2/2022-01-21-0-summary.md",
     "_posts/w1/2022-01-16-2-lecture.md",
-    "index.md",
-    "information/02-teaching_team.md",
     "_posts/w1/2022-01-16-1-lab.md",
     "_posts/w1/2022-01-16-0-summary.md",
-    "_posts/w6/2022-02-24-2-lecture.md",
-    "_posts/w6/2022-02-22-1-lab.md",
-    "_posts/w6/2022-02-18-4-reading1.md",
-    "_posts/w6/2022-02-18-3-homework.md",
-    "_posts/w6/2022-02-18-0-summary.md"
+    "information/03-schedule.md"
   ]
 }
