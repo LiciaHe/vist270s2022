@@ -60,6 +60,9 @@ Upon completing the course, successful students will have:
 - Learned some of the algorithmic, perceptual and mathematical foundations of computer graphics
 - Experienced using a 2D graphics API to solve visually-based problems
 - Practiced developing and writing scripts in Python for the Maya 3D computer graphics platform
+
+
+
 ------------------------------------------------------------
 
 
@@ -92,7 +95,7 @@ Unless you have made an arrangement with the intructor (Dr. Licia He) <mark>PRIO
 ### Reading and Quiz
 This class use a [flipped classroom model](https://en.wikipedia.org/wiki/Flipped_classroom#:~:text=A%20flipped%20classroom%20is%20an,problem%2Dsolving%20during%20class%20time.), where you will learn the core concepts through readings and online lecture watching. After the reading/online lecture, you should be able to complete the homework set. <strong>It is crucial for you to complete these readings/videos BEFORE your lab sessions </strong>. All reading materials will be released on or before the Friday prior to the new week. On the following Monday, a quiz regarding the reading material will due at <strong>10 pm (instead of midnight)</strong>.   
 
-You will complete all quizzes electronically on Canvas. You will receive immediate feedback as to the correctness of answers. You may repeat questions that they do not get correct. 
+You will complete all quizzes electronically on Canvas. You will receive immediate feedback as to the correctness of answers. You may repeat questions that they do not get correct (see Canvas for more detail). 
 
 
 ### Homework  
