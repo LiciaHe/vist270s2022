@@ -25,9 +25,11 @@ title: Material
 	{% elsif  post.title contains 'Homework' %}
 		{% assign style = "color:#570c1c;" %}
 	{%endif%}
+{% unless  post.title contains 'DRAFT' %}
 	<li style="{{style}}" >
 	      <a href="{{ post.url | prepend:site.baseurl}}" style="{{style}}">{{ post.title }}</a>
 	</li>
+  {% endunless %}
   {% endfor %}
 </ul>
 
