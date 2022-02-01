@@ -50,9 +50,9 @@ Class Topic is subject to change.
 | ----------- | ----------- |   ----------- | 
 |1|  |Course introduction|Software Installation| 
 |2| 1 |Basic Python Programming|numbers, lists, strings, variable| 
-|3| 2| Conditional Execution|Conditional Execution| 
-|4| 3| Foundation of 2D graphics, loops |Primitive shapes and loops| 
-|5| 4| Functions |functions| 
+|3| 2| Function, Conditional Execution|Function, Conditional Execution|
+|4| 3| Loop, List | Loop, List| 
+|5| 4| Foundation of 2D graphics, loops |Primitive shapes and loops| 
 |6| 5| Object-Oriented Programming |Object-oriented programming| 
 |7| 6| Trigonometry for graphics |Using Trignometry to arrange objects| 
 |8| 7| Transformation I: scaling, translating |Transformation I| 
