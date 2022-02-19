@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title:  "W5-6-HW3-Gallery"  
+
 ---  
 <details>  
  <summary>  
@@ -334,72 +335,6 @@ title:  "W5-6-HW3-Gallery"
 </details>  
 <details>  
  <summary>  
-  bonillacesar  
-  <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/bonillacesar/bonillacesar_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
   burnsavery  
   <img src="../../../assets/hw3_output/burnsavery/burnsavery_mix.png"/>  
  </summary>  
@@ -664,138 +599,6 @@ title:  "W5-6-HW3-Gallery"
 </details>  
 <details>  
  <summary>  
-  closecameront  
-  <img src="../../../assets/hw3_output/closecameront/closecameront_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/closecameront/closecameront_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
-  corleykristinelizabeth  
-  <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/corleykristinelizabeth/corleykristinelizabeth_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
   davilaelsa  
   <img src="../../../assets/hw3_output/davilaelsa/davilaelsa_mix.png"/>  
  </summary>  
@@ -859,72 +662,6 @@ title:  "W5-6-HW3-Gallery"
   Tile 2 in Layout 4  
  </p>  
  <img src="../../../assets/hw3_output/davilaelsa/davilaelsa_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
-  dienerzacharythomas  
-  <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/dienerzacharythomas/dienerzacharythomas_l2_tile4.png"/>  
 </details>  
 <details>  
  <summary>  
@@ -1258,72 +995,6 @@ title:  "W5-6-HW3-Gallery"
 </details>  
 <details>  
  <summary>  
-  kornegaykaitlin  
-  <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/kornegaykaitlin/kornegaykaitlin_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
   kostohryzluke  
   <img src="../../../assets/hw3_output/kostohryzluke/kostohryzluke_mix.png"/>  
  </summary>  
@@ -1519,72 +1190,6 @@ title:  "W5-6-HW3-Gallery"
   Tile 2 in Layout 4  
  </p>  
  <img src="../../../assets/hw3_output/lloydmaggie/lloydmaggie_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
-  martinezkayla  
-  <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/martinezkayla/martinezkayla_l2_tile4.png"/>  
 </details>  
 <details>  
  <summary>  
@@ -1918,6 +1523,72 @@ title:  "W5-6-HW3-Gallery"
 </details>  
 <details>  
  <summary>  
+  soestnoahvan  
+  <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_mix.png"/>  
+ </summary>  
+ <p>  
+  Tile 0 in Layout 0  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l0_tile0.png"/>  
+ <p>  
+  Tile 0 in Layout 1  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l0_tile1.png"/>  
+ <p>  
+  Tile 0 in Layout 2  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l0_tile2.png"/>  
+ <p>  
+  Tile 0 in Layout 3  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l0_tile3.png"/>  
+ <p>  
+  Tile 0 in Layout 4  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l0_tile4.png"/>  
+ <p>  
+  Tile 1 in Layout 0  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l1_tile0.png"/>  
+ <p>  
+  Tile 1 in Layout 1  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l1_tile1.png"/>  
+ <p>  
+  Tile 1 in Layout 2  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l1_tile2.png"/>  
+ <p>  
+  Tile 1 in Layout 3  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l1_tile3.png"/>  
+ <p>  
+  Tile 1 in Layout 4  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l1_tile4.png"/>  
+ <p>  
+  Tile 2 in Layout 0  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l2_tile0.png"/>  
+ <p>  
+  Tile 2 in Layout 1  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l2_tile1.png"/>  
+ <p>  
+  Tile 2 in Layout 2  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l2_tile2.png"/>  
+ <p>  
+  Tile 2 in Layout 3  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l2_tile3.png"/>  
+ <p>  
+  Tile 2 in Layout 4  
+ </p>  
+ <img src="../../../assets/hw3_output/soestnoahvan/soestnoahvan_l2_tile4.png"/>  
+</details>  
+<details>  
+ <summary>  
   stevenskyla  
   <img src="../../../assets/hw3_output/stevenskyla/stevenskyla_mix.png"/>  
  </summary>  
@@ -2113,72 +1784,6 @@ title:  "W5-6-HW3-Gallery"
   Tile 2 in Layout 4  
  </p>  
  <img src="../../../assets/hw3_output/tranjenny/tranjenny_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
-  tysonzachary  
-  <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/tysonzachary/tysonzachary_l2_tile4.png"/>  
 </details>  
 <details>  
  <summary>  
@@ -2509,72 +2114,6 @@ title:  "W5-6-HW3-Gallery"
   Tile 2 in Layout 4  
  </p>  
  <img src="../../../assets/hw3_output/willifordcarterlee/willifordcarterlee_l2_tile4.png"/>  
-</details>  
-<details>  
- <summary>  
-  winstonthomas  
-  <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_mix.png"/>  
- </summary>  
- <p>  
-  Tile 0 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l0_tile0.png"/>  
- <p>  
-  Tile 0 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l0_tile1.png"/>  
- <p>  
-  Tile 0 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l0_tile2.png"/>  
- <p>  
-  Tile 0 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l0_tile3.png"/>  
- <p>  
-  Tile 0 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l0_tile4.png"/>  
- <p>  
-  Tile 1 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l1_tile0.png"/>  
- <p>  
-  Tile 1 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l1_tile1.png"/>  
- <p>  
-  Tile 1 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l1_tile2.png"/>  
- <p>  
-  Tile 1 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l1_tile3.png"/>  
- <p>  
-  Tile 1 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l1_tile4.png"/>  
- <p>  
-  Tile 2 in Layout 0  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l2_tile0.png"/>  
- <p>  
-  Tile 2 in Layout 1  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l2_tile1.png"/>  
- <p>  
-  Tile 2 in Layout 2  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l2_tile2.png"/>  
- <p>  
-  Tile 2 in Layout 3  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l2_tile3.png"/>  
- <p>  
-  Tile 2 in Layout 4  
- </p>  
- <img src="../../../assets/hw3_output/winstonthomas/winstonthomas_l2_tile4.png"/>  
 </details>  
 <details>  
  <summary>  
