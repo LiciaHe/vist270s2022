@@ -33,7 +33,7 @@ For every homework set, there are at most three types of tasks to be reviewed.
 
 	-   Q3: any other comment? 
 
-In each week, we will post about the questions we want you to review. Besides answering these questions, you can propose to give your peer bonus points. If you believe that your peer has created outstanding work that deserve a bonus, please fill in the following paragraph and add it to your review: 
+In each week, we will post about the questions we want you to review (in blue next to each task). Besides answering these questions, you can propose to give your peer bonus points. If you believe that your peer has created outstanding work that deserve a bonus, please fill in the following paragraph and add it to your review: 
 
 ```
 I recommend this submission for an additional bonus of x%[x should be less than 2] because [fill your reason here]. 
