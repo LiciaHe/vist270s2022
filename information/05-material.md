@@ -5,9 +5,11 @@ title: Material
 ---
 
 ### Learning Material By Week
+(Contact the instructor for details)
 
 
 
+{% comment %}
 
 <ul>
 
@@ -70,4 +72,4 @@ title: Material
 
 
 
-
+{% endcomment %}
